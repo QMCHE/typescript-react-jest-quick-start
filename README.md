@@ -1,7 +1,7 @@
 # Typescript React Jest Quick Start
 ## 클론
 ```
-git clone https://github.com/QMCHE/typescript-react-jest-quick-start.git
+git clone https://github.com/tlsalstn/typescript-react-jest-quick-start.git
 ```
 ## 사용법
 ```
